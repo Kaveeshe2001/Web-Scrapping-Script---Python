@@ -1,0 +1,25 @@
+Date: 22/1/2026
+Time: 13:8
+Phone Number: +94714655760
+Message: Hello from pywhatkit!
+--------------------
+Date: 22/1/2026
+Time: 13:18
+Phone Number: +714655760
+Message: This is the automatically entered bot message. Don't take it seriously. You are the testing PAKAYA
+--------------------
+Date: 22/1/2026
+Time: 13:20
+Phone Number: +944527617
+Message: This is the automatically entered bot message. Don't take it seriously. You are the testing PAKAYA
+--------------------
+Date: 22/1/2026
+Time: 13:21
+Phone Number: +94774527617
+Message: This is the automatically entered bot message. Don't take it seriously. You are the testing PAKAYA
+--------------------
+Date: 22/1/2026
+Time: 13:24
+Phone Number: +94776236575
+Message: Gon suba
+--------------------
